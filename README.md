@@ -1,6 +1,6 @@
 # How To Install Polymer Project On Windows 7 (x64)
 
-# Here is a video of my installation
+## Here is a video of my installation. So this is what you get
 ![windows-7-x64-screencast.gif](windows-7-x64-screencast.gif)
 
 ## Getting started
