@@ -11,9 +11,9 @@ All variables will be used by your npm module installations in the polymer start
 
 Okay lets start.
 
- 1. Install GIT ((https://git-scm.com/downloads))
+ 1. Install GIT https://git-scm.com/downloads
  2. Install Python 2.7.X https://www.python.org/downloads/
- 3. Install nodejs 4.1.1
+ 3. Install nodejs 4.1.1 https://nodejs.org/en/download/
  4. Install Visual Studio 2015 Community with all packages you can select in installation assistant https://www.visualstudio.com/de-de/vs-2015-product-editions.aspx
     (Thats important for your imagemin dependency and installing all dependencies without errors)
  5. Fork and Clone Polymer Starter Kit and drop it in your root path i.e. direct to C:/ https://github.com/PolymerElements/polymer-starter-kit
